@@ -6,12 +6,12 @@
   "sort": "created",
   "order": "desc",
   "includeFork": false,
-  "theme": "dark.css",
+  "theme": "light.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": "https://www.linkedin.com/in/jash-sheth-05/",
+  "linkedin": "jash-sheth-05",
   "medium": null,
   "dribbble": null
  }
